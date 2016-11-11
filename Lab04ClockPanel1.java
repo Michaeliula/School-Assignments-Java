@@ -15,7 +15,7 @@ import java.time.Month;
        
 /**
  *
- * @author user
+ * @author user Michael Iula
  */
 public class ClockPanel1 extends JPanel {
 
